@@ -4,7 +4,7 @@ import info
 
 class Webbkoll:
 
-    url = 'https://webbkoll.dataskydd.net/en'
+    url = 'https://webbkoll.dataskydd.net/de'
     selector = {
         'url_input': 'input[name="url"]',
         'result': '#results-summary',
